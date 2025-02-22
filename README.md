@@ -107,9 +107,6 @@ if(M>=10*(Speed*1.5*(0.5*Speed))){
 Speed+=1;
     
 }
-if(mouseX>150&&mouseX<=250&&mouseY>=360&&mouseY<=395){
-if(M>1000*(1000*(pow(p,3)*P))){
-P+=1;    
 }
 if(mouseX>150&&mouseX<=250&&mouseY>=360&&mouseY<=395){
 if(M>1000*(1000*(pow(p,3)*P))){
